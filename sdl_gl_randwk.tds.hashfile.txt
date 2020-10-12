@@ -1,3 +1,0 @@
-SHA1 hash of .\sdl_gl_randwk.tds:
-e49b658bf51c6e6f180e022b2f37483fc905275f
-CertUtil: -hashfile command completed successfully.
