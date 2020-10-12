@@ -1,3 +1,0 @@
-SHA1 hash of .\utils\math3d.cpp:
-dc5fbfaf3226f426e1575324381fa05cba7af7cc
-CertUtil: -hashfile command completed successfully.
