@@ -1,3 +1,0 @@
-SHA1 hash of .\utils\math3d.h:
-e768d82ecedc556e5d7042d213097c3dac546ae2
-CertUtil: -hashfile command completed successfully.
