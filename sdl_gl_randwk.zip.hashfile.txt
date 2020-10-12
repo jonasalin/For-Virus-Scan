@@ -1,0 +1,3 @@
+SHA1 hash of sdl_gl_randwk.zip:
+b0725b9fce7f770480cf07224a861b5217044f43
+CertUtil: -hashfile command completed successfully.
