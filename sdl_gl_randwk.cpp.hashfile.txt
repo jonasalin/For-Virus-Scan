@@ -1,0 +1,3 @@
+SHA1 hash of .\sdl_gl_randwk.cpp:
+4220ef77961af473b8ee0e7e9d18c84ffc8c5ccc
+CertUtil: -hashfile command completed successfully.

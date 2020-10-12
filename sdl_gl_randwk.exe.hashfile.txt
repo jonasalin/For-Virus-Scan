@@ -1,0 +1,3 @@
+SHA1 hash of .\sdl_gl_randwk.exe:
+2451a87a580d25e88fa4e3fa0012dcdee3db1fa2
+CertUtil: -hashfile command completed successfully.
