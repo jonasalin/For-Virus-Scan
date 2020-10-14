@@ -1,0 +1,3 @@
+SHA512 hash of sdl_gl_cube.zip:
+100083e4c318f95979b938b192113be133922f973fc28f2f01c3cb83d4382d9cb639ef890952bb61f92aaf7c523f37578c578c763040074a360f56a1457c3d6a
+CertUtil: -hashfile command completed successfully.
